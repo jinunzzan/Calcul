@@ -14,6 +14,7 @@
 		59D105FD2A33193000CD49B9 /* Calcul.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 59D105FB2A33193000CD49B9 /* Calcul.xcdatamodeld */; };
 		59D105FF2A33193100CD49B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59D105FE2A33193100CD49B9 /* Assets.xcassets */; };
 		59D106022A33193100CD49B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59D106002A33193100CD49B9 /* LaunchScreen.storyboard */; };
+		59D4525A2A36B33F00D37E86 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D452592A36B33F00D37E86 /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		59D105FE2A33193100CD49B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59D106012A33193100CD49B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59D106032A33193100CD49B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59D452592A36B33F00D37E86 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				59D106002A33193100CD49B9 /* LaunchScreen.storyboard */,
 				59D106032A33193100CD49B9 /* Info.plist */,
 				59D105FB2A33193000CD49B9 /* Calcul.xcdatamodeld */,
+				59D452592A36B33F00D37E86 /* RoundButton.swift */,
 			);
 			path = Calcul;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				59D105F72A33193000CD49B9 /* ViewController.swift in Sources */,
+				59D4525A2A36B33F00D37E86 /* RoundButton.swift in Sources */,
 				59D105F32A33193000CD49B9 /* AppDelegate.swift in Sources */,
 				59D105F52A33193000CD49B9 /* SceneDelegate.swift in Sources */,
 				59D105FD2A33193000CD49B9 /* Calcul.xcdatamodeld in Sources */,
